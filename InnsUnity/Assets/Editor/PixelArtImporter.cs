@@ -9,7 +9,7 @@ using UnityEngine.U2D;
 namespace DrunkenDragon.Editor
 {
     /// <summary>
-    /// ArtImporter enforces correct texture settings for items included in the Assets/Art folder.
+    /// ArtImporter enforces correct texture settings for items included in the Assets/Art/PixelArt folder.
     /// Be aware changes to this file may trigger a full-project reimport.
     /// </summary>
     public class PixelArtImporter : AssetPostprocessor
