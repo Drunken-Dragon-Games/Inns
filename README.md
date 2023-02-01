@@ -5,11 +5,11 @@ Greetings Adventurer!!
 This is a Unity 2021.3 project that is a Unity rebuild of the Drunken Dragon Universe Inns game.
 
 ## Drunken Dragon Links
-Official Site: https://www.drunkendragon.games/
-Discord: https://discord.gg/drunkendragon
+* Official Site: https://www.drunkendragon.games/
+* Discord: https://discord.gg/drunkendragon
 
 ## Unity Version
-2021.3.16
+2021.3.17
 
 ## Plugins
 | Plugin  |  Version | License | URL |
